@@ -1,0 +1,161 @@
+7.6396 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+7.6412 	INFO 	Loaded monitor calibration from ['2025_05_16 08:37']
+8.7960 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025281DB2320>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025281DB22C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025281E6B820>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.7961 	EXP 	window1: backgroundImage = ''
+8.7961 	EXP 	window1: backgroundFit = 'none'
+8.8213 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8221 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8228 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8237 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8246 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8251 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8271 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8275 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8282 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8298 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8305 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8319 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8331 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8356 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8361 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8377 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8392 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8572 	DEBUG 	Upload of Texture Font fontname complete
+8.8688 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8704 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8718 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8722 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8794 	DEBUG 	Upload of Texture Font fontname complete
+8.8818 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.8818 	EXP 	window1: recordFrameIntervals = False
+9.0643 	EXP 	window1: recordFrameIntervals = True
+9.3149 	EXP 	Screen (0) actual frame rate measured at 61.29Hz
+9.3150 	EXP 	window1: recordFrameIntervals = False
+9.3231 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3238 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3248 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3270 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3281 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3289 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3301 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+9.3326 	DEBUG 	Uploading Texture Font fontname to graphics card
+9.3334 	DEBUG 	Upload of Texture Font fontname complete
+9.3899 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+12.3347 	INFO 	keyboard.Keyboard is using iohub backend.
+12.3347 	EXP 	untitled: status = STARTED
+12.3510 	EXP 	Created cross = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='cross', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+12.3572 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0562 	DEBUG 	Read excel file with openpyxl: Book1.xlsx
+0.0575 	EXP 	Imported Book1.xlsx as conditions, 10 conditions, 4 params
+0.0590 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'path': 'vehicle.jpg', 'xPos': -0.3, 'yPos': -0.1, 'marker': 7, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0926 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+0.5275 	EXP 	cross: autoDraw = True
+1.6992 	DATA 	Mouse: Left button down, pos=(222,237)
+1.7432 	EXP 	cross: autoDraw = False
+1.7432 	EXP 	image: image = 'vehicle.jpg'
+1.8321 	DATA 	Mouse:  Left button up, pos=(222,237)
+2.2112 	EXP 	image: autoDraw = True
+3.1979 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'path': 'animal.jpg', 'xPos': 0.4, 'yPos': -0.2, 'marker': 8, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.2112 	EXP 	image: autoDraw = False
+3.2112 	EXP 	image: autoDraw = False
+3.2112 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+3.7117 	EXP 	cross: autoDraw = True
+5.0495 	DATA 	Mouse: Left button down, pos=(643,180)
+5.1101 	EXP 	cross: autoDraw = False
+5.1101 	EXP 	image: image = 'animal.jpg'
+5.1827 	DATA 	Mouse:  Left button up, pos=(643,180)
+5.5609 	EXP 	image: autoDraw = True
+6.5476 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'path': 'building.jpg', 'xPos': -0.4, 'yPos': -0.3, 'marker': 9, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.5608 	EXP 	image: autoDraw = False
+6.5608 	EXP 	image: autoDraw = False
+6.5608 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+7.0613 	EXP 	cross: autoDraw = True
+8.0838 	DATA 	Mouse: Left button down, pos=(164,126)
+8.1616 	EXP 	cross: autoDraw = False
+8.1616 	EXP 	image: image = 'building.jpg'
+8.1990 	DATA 	Mouse:  Left button up, pos=(164,126)
+8.5938 	EXP 	image: autoDraw = True
+9.5810 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'path': 'person.jpg', 'xPos': 0.2, 'yPos': 0.2, 'marker': 4, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+9.5943 	EXP 	image: autoDraw = False
+9.5943 	EXP 	image: autoDraw = False
+9.5943 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+10.0939 	EXP 	cross: autoDraw = True
+10.7984 	DATA 	Mouse: Left button down, pos=(519,411)
+10.8603 	EXP 	cross: autoDraw = False
+10.8603 	EXP 	image: image = 'person.jpg'
+10.9156 	DATA 	Mouse:  Left button up, pos=(519,411)
+11.3104 	EXP 	image: autoDraw = True
+12.2984 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'path': 'food.jpg', 'xPos': 0, 'yPos': 0.5, 'marker': 1, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+12.3107 	EXP 	image: autoDraw = False
+12.3107 	EXP 	image: autoDraw = False
+12.3107 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+12.8108 	EXP 	cross: autoDraw = True
+13.6815 	DATA 	Mouse: Left button down, pos=(389,585)
+13.7609 	EXP 	cross: autoDraw = False
+13.7609 	EXP 	image: image = 'food.jpg'
+13.8153 	DATA 	Mouse:  Left button up, pos=(389,585)
+14.1940 	EXP 	image: autoDraw = True
+15.1817 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'path': 'electronic.jpg', 'xPos': 0.5, 'yPos': -0.4, 'marker': 10, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+15.1944 	EXP 	image: autoDraw = False
+15.1944 	EXP 	image: autoDraw = False
+15.1944 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+15.6943 	EXP 	cross: autoDraw = True
+16.8820 	DATA 	Mouse: Left button down, pos=(691,67)
+16.9440 	EXP 	cross: autoDraw = False
+16.9440 	EXP 	image: image = 'electronic.jpg'
+17.0158 	DATA 	Mouse:  Left button up, pos=(691,67)
+17.3945 	EXP 	image: autoDraw = True
+18.3816 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'path': 'sport.jpg', 'xPos': -0.2, 'yPos': 0.1, 'marker': 5, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+18.3941 	EXP 	image: autoDraw = False
+18.3941 	EXP 	image: autoDraw = False
+18.3941 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+18.8938 	EXP 	cross: autoDraw = True
+19.9809 	DATA 	Mouse: Left button down, pos=(288,366)
+20.0437 	EXP 	cross: autoDraw = False
+20.0437 	EXP 	image: image = 'sport.jpg'
+20.1017 	DATA 	Mouse:  Left button up, pos=(288,366)
+20.4941 	EXP 	image: autoDraw = True
+21.4814 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'path': 'tool.jpg', 'xPos': 0.3, 'yPos': 0, 'marker': 6, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+21.6100 	EXP 	image: autoDraw = False
+21.6100 	EXP 	image: autoDraw = False
+21.6100 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+21.9942 	EXP 	cross: autoDraw = True
+23.2154 	DATA 	Mouse: Left button down, pos=(582,306)
+23.2773 	EXP 	cross: autoDraw = False
+23.2773 	EXP 	image: image = 'tool.jpg'
+23.3327 	DATA 	Mouse:  Left button up, pos=(582,306)
+23.7276 	EXP 	image: autoDraw = True
+24.7158 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'path': 'furniture.jpg', 'xPos': 0.1, 'yPos': 0.4, 'marker': 2, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+24.7274 	EXP 	image: autoDraw = False
+24.7274 	EXP 	image: autoDraw = False
+24.7274 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+25.2281 	EXP 	cross: autoDraw = True
+26.0823 	DATA 	Mouse: Left button down, pos=(457,545)
+26.1603 	EXP 	cross: autoDraw = False
+26.1603 	EXP 	image: image = 'furniture.jpg'
+26.2005 	DATA 	Mouse:  Left button up, pos=(457,545)
+26.5945 	EXP 	image: autoDraw = True
+27.5834 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'path': 'nature.jpg', 'xPos': -0.1, 'yPos': 0.3, 'marker': 3, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+27.5942 	EXP 	image: autoDraw = False
+27.5942 	EXP 	image: autoDraw = False
+27.5942 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+28.0943 	EXP 	cross: autoDraw = True
+29.2159 	DATA 	Mouse: Left button down, pos=(346,470)
+29.2780 	EXP 	cross: autoDraw = False
+29.2780 	EXP 	image: image = 'nature.jpg'
+29.3326 	DATA 	Mouse:  Left button up, pos=(346,470)
+29.7280 	EXP 	image: autoDraw = True
+30.7283 	EXP 	image: autoDraw = False
+30.7283 	EXP 	image: autoDraw = False
+30.7320 	EXP 	untitled: status = STOPPED
+30.7657 	INFO 	saved data to 'C:\\Users\\Sahaj Bindal\\OneDrive\\Desktop\\New folder\\data/193305_untitled_2025-05-22_09h16.48.719.csv'
+30.7734 	INFO 	saved data to C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\data/193305_untitled_2025-05-22_09h16.48.719.psydat
+31.5017 	DEBUG 	Saving data for untitled ExperimentHandler

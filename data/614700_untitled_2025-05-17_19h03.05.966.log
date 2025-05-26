@@ -1,0 +1,58 @@
+4.5982 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.6004 	INFO 	Loaded monitor calibration from ['2025_05_16 08:37']
+4.9653 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002732E1D1B40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002732E1D1AE0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002732E277040>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.9654 	EXP 	window1: backgroundImage = ''
+4.9654 	EXP 	window1: backgroundFit = 'none'
+4.9761 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9769 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9777 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9798 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9833 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9843 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9851 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9861 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9865 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9870 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9877 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9885 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9891 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9899 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9905 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9912 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9919 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9924 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9929 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9939 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9944 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.9948 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.0078 	DEBUG 	Upload of Texture Font fontname complete
+5.0155 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0165 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0176 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.0178 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.0285 	DEBUG 	Upload of Texture Font fontname complete
+5.0320 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.0320 	EXP 	window1: recordFrameIntervals = False
+5.2041 	EXP 	window1: recordFrameIntervals = True
+5.4384 	EXP 	Screen (0) actual frame rate measured at 59.53Hz
+5.4385 	EXP 	window1: recordFrameIntervals = False
+5.4492 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4527 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4549 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4567 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4582 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4605 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4618 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4649 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.4654 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.4664 	DEBUG 	Upload of Texture Font fontname complete
+5.4829 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+5.6900 	INFO 	keyboard.Keyboard is using iohub backend.
+5.6900 	EXP 	untitled: status = STARTED
+5.7034 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+5.7092 	EXP 	Created cross = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='cross', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.1534 	DEBUG 	Saving data for untitled ExperimentHandler
+0.1545 	INFO 	saved data to C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\data/614700_untitled_2025-05-17_19h03.05.966.psydat
+0.1552 	INFO 	saved data to 'C:\\Users\\Sahaj Bindal\\OneDrive\\Desktop\\New folder\\data/614700_untitled_2025-05-17_19h03.05.966.csv'

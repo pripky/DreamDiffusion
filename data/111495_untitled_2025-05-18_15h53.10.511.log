@@ -1,0 +1,71 @@
+7.2388 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+7.2403 	INFO 	Loaded monitor calibration from ['2025_05_16 08:37']
+8.3528 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000176A655DF00>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000176A655DEA0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000176A660B400>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.3529 	EXP 	window1: backgroundImage = ''
+8.3529 	EXP 	window1: backgroundFit = 'none'
+8.3796 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3809 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3823 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3836 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3849 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3856 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3866 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3886 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3892 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3921 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3932 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3943 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3962 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3972 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3978 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3985 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3997 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4027 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.4260 	DEBUG 	Upload of Texture Font fontname complete
+8.4376 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4396 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4411 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.4416 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.4477 	DEBUG 	Upload of Texture Font fontname complete
+8.4508 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.4509 	EXP 	window1: recordFrameIntervals = False
+8.6424 	EXP 	window1: recordFrameIntervals = True
+8.8396 	EXP 	Screen (0) actual frame rate measured at 60.30Hz
+8.8396 	EXP 	window1: recordFrameIntervals = False
+8.8498 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8507 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8519 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8534 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8549 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8577 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8619 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.8623 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.8630 	DEBUG 	Upload of Texture Font fontname complete
+8.9288 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+11.8595 	INFO 	keyboard.Keyboard is using iohub backend.
+11.8595 	EXP 	untitled: status = STARTED
+11.8776 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+11.8839 	EXP 	Created cross = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='cross', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0441 	DEBUG 	Read excel file with openpyxl: Book1.xlsx
+0.0447 	EXP 	Imported Book1.xlsx as conditions, 10 conditions, 3 params
+0.0458 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'path': 'images\\food.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1211 	EXP 	image: image = 'images\\food.jpg'
+0.5388 	EXP 	image: autoDraw = True
+1.5546 	EXP 	image: autoDraw = False
+1.5546 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+2.0048 	EXP 	cross: autoDraw = True
+3.5261 	DATA 	Mouse: Left button down, pos=(401,303)
+3.5278 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'path': 'images\nature.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.5285 	DEPRECATION 	Couldn't find image images
+ature.jpg; check path? (tried: C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\images
+ature.jpg)
+3.6163 	DEBUG 	Saving data for untitled ExperimentHandler
+3.6210 	INFO 	saved data to C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\data/111495_untitled_2025-05-18_15h53.10.511.psydat
+3.6234 	INFO 	saved data to 'C:\\Users\\Sahaj Bindal\\OneDrive\\Desktop\\New folder\\data/111495_untitled_2025-05-18_15h53.10.511.csv'

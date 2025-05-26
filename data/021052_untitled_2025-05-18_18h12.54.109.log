@@ -1,0 +1,91 @@
+6.8050 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+6.8071 	INFO 	Loaded monitor calibration from ['2025_05_16 08:37']
+7.2314 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027C60E4DC90>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027C60E4DCF0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027C61C67370>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.2315 	EXP 	window1: backgroundImage = ''
+7.2315 	EXP 	window1: backgroundFit = 'none'
+7.2427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2435 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2452 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2461 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2466 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2474 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2490 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2494 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2501 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2515 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2522 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2529 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2557 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2565 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2572 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2591 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2597 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2662 	DEBUG 	Upload of Texture Font fontname complete
+7.2732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2743 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2752 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.2754 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.2796 	DEBUG 	Upload of Texture Font fontname complete
+7.2826 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.2826 	EXP 	window1: recordFrameIntervals = False
+7.4555 	EXP 	window1: recordFrameIntervals = True
+7.6389 	EXP 	Screen (0) actual frame rate measured at 59.73Hz
+7.6389 	EXP 	window1: recordFrameIntervals = False
+7.6483 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6502 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6517 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6533 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6554 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6564 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.6589 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.6595 	DEBUG 	Upload of Texture Font fontname complete
+7.6727 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+10.5738 	INFO 	keyboard.Keyboard is using iohub backend.
+10.5738 	EXP 	untitled: status = STARTED
+10.5914 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.5950 	EXP 	Created cross = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='cross', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0275 	DEBUG 	Read excel file with openpyxl: Book1.xlsx
+0.0280 	EXP 	Imported Book1.xlsx as conditions, 10 conditions, 3 params
+0.0284 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'path': 'images\\animal.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0555 	EXP 	image: image = 'images\\animal.jpg'
+0.5225 	EXP 	image: autoDraw = True
+1.5396 	EXP 	image: autoDraw = False
+1.5396 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+2.0097 	EXP 	cross: autoDraw = True
+2.9300 	DATA 	Mouse: Left button down, pos=(403,305)
+2.9313 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'path': 'images\\vehicle.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.9560 	EXP 	cross: autoDraw = False
+2.9560 	EXP 	image: image = 'images\\vehicle.jpg'
+3.0799 	DATA 	Mouse:  Left button up, pos=(403,305)
+3.4402 	EXP 	image: autoDraw = True
+4.4414 	EXP 	image: autoDraw = False
+4.4414 	EXP 	image: autoDraw = False
+4.4414 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+4.9426 	EXP 	cross: autoDraw = True
+5.3970 	DATA 	Mouse: Left button down, pos=(403,306)
+5.3983 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'path': 'images\\person.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.4398 	EXP 	cross: autoDraw = False
+5.4398 	EXP 	image: image = 'images\\person.jpg'
+5.5475 	DATA 	Mouse:  Left button up, pos=(403,306)
+5.9103 	EXP 	image: autoDraw = True
+6.9091 	EXP 	image: autoDraw = False
+6.9091 	EXP 	image: autoDraw = False
+6.9091 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+7.4091 	EXP 	cross: autoDraw = True
+7.9964 	DATA 	Mouse: Left button down, pos=(398,304)
+7.9977 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'path': 'images\nature.jpg', 'xPos': 0, 'yPos': 0, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.9982 	DEPRECATION 	Couldn't find image images
+ature.jpg; check path? (tried: C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\images
+ature.jpg)
+8.1002 	DEBUG 	Saving data for untitled ExperimentHandler
+8.1015 	INFO 	saved data to C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\data/021052_untitled_2025-05-18_18h12.54.109.psydat
+8.1022 	INFO 	saved data to 'C:\\Users\\Sahaj Bindal\\OneDrive\\Desktop\\New folder\\data/021052_untitled_2025-05-18_18h12.54.109.csv'

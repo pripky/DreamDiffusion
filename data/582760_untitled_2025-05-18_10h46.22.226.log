@@ -1,0 +1,108 @@
+5.3111 	INFO 	Loaded monitor calibration from ['2025_05_16 08:37']
+5.4787 	WARNING 	User requested fullscreen with size [1280  800], but screen is actually [1920, 1200]. Using actual size
+7.3530 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BB330B1BD0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001BB330B1B70>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001BB331570A0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.3531 	EXP 	window1: backgroundImage = ''
+7.3531 	EXP 	window1: backgroundFit = 'none'
+7.4349 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.4350 	EXP 	window1: recordFrameIntervals = False
+7.5718 	EXP 	window1: recordFrameIntervals = True
+7.7547 	EXP 	Screen (0) actual frame rate measured at 60.17Hz
+7.7547 	EXP 	window1: recordFrameIntervals = False
+9.6729 	INFO 	keyboard.Keyboard is using iohub backend.
+9.6729 	EXP 	untitled: status = STARTED
+9.6792 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+9.6832 	EXP 	Created cross = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='cross', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), texRes=128.0, units='height', win=Window(...))
+0.0098 	EXP 	Imported loopTemplate1.xlsx as conditions, 10 conditions, 3 params
+0.0102 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'path': 'images\\furniture.jpg', 'xPos': 0.2, 'yPos': 0.1, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0360 	EXP 	image: image = 'images\\furniture.jpg'
+0.5119 	EXP 	image: autoDraw = True
+1.5204 	EXP 	image: autoDraw = False
+1.5204 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+2.0032 	EXP 	cross: autoDraw = True
+2.7738 	DATA 	Mouse: Left button down, pos=(1209,727)
+2.7901 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'path': 'images\\building.jpg', 'xPos': -0.1, 'yPos': 0.4, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.8334 	EXP 	cross: autoDraw = False
+2.8334 	EXP 	image: image = 'images\\building.jpg'
+2.8715 	DATA 	Mouse:  Left button up, pos=(1208,732)
+3.3038 	EXP 	image: autoDraw = True
+4.3037 	EXP 	image: autoDraw = False
+4.3037 	EXP 	image: autoDraw = False
+4.3037 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+4.8036 	EXP 	cross: autoDraw = True
+5.6216 	DATA 	Mouse: Left button down, pos=(835,1083)
+5.6241 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'path': 'images\\sport.jpg', 'xPos': 0.4, 'yPos': -0.2, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.6544 	EXP 	cross: autoDraw = False
+5.6544 	EXP 	image: image = 'images\\sport.jpg'
+5.7067 	DATA 	Mouse:  Left button up, pos=(835,1083)
+6.1368 	EXP 	image: autoDraw = True
+7.1375 	EXP 	image: autoDraw = False
+7.1375 	EXP 	image: autoDraw = False
+7.1375 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+7.6370 	EXP 	cross: autoDraw = True
+8.5714 	DATA 	Mouse: Left button down, pos=(1439,375)
+8.5738 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'path': 'images\\food.jpg', 'xPos': -0.2, 'yPos': 0.2, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+8.6149 	EXP 	cross: autoDraw = False
+8.6149 	EXP 	image: image = 'images\\food.jpg'
+8.6719 	DATA 	Mouse:  Left button up, pos=(1439,375)
+9.0874 	EXP 	image: autoDraw = True
+10.0866 	EXP 	image: autoDraw = False
+10.0866 	EXP 	image: autoDraw = False
+10.0866 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+10.5870 	EXP 	cross: autoDraw = True
+11.3045 	DATA 	Mouse: Left button down, pos=(694,847)
+11.3215 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'path': 'images\\animal.jpg', 'xPos': 0, 'yPos': 0.5, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+11.3597 	EXP 	cross: autoDraw = False
+11.3597 	EXP 	image: image = 'images\\animal.jpg'
+11.4223 	DATA 	Mouse:  Left button up, pos=(696,847)
+11.8372 	EXP 	image: autoDraw = True
+12.8372 	EXP 	image: autoDraw = False
+12.8372 	EXP 	image: autoDraw = False
+12.8372 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+13.3371 	EXP 	cross: autoDraw = True
+14.2883 	DATA 	Mouse: Left button down, pos=(957,1196)
+14.2909 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'path': 'images\\electronic.jpg', 'xPos': 0.1, 'yPos': 0.3, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+14.3176 	EXP 	cross: autoDraw = False
+14.3176 	EXP 	image: image = 'images\\electronic.jpg'
+14.3717 	DATA 	Mouse:  Left button up, pos=(957,1196)
+14.8038 	EXP 	image: autoDraw = True
+15.8037 	EXP 	image: autoDraw = False
+15.8037 	EXP 	image: autoDraw = False
+15.8037 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+16.3035 	EXP 	cross: autoDraw = True
+17.2712 	DATA 	Mouse: Left button down, pos=(1094,971)
+17.2730 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'path': 'images\\person.jpg', 'xPos': -0.3, 'yPos': -0.1, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+17.3060 	EXP 	cross: autoDraw = False
+17.3060 	EXP 	image: image = 'images\\person.jpg'
+17.3549 	DATA 	Mouse:  Left button up, pos=(1094,971)
+17.7869 	EXP 	image: autoDraw = True
+18.7870 	EXP 	image: autoDraw = False
+18.7870 	EXP 	image: autoDraw = False
+18.7870 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+19.2870 	EXP 	cross: autoDraw = True
+19.9575 	DATA 	Mouse: Left button down, pos=(622,488)
+19.9730 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'path': 'images\\vehicle.jpg', 'xPos': 0.5, 'yPos': -0.4, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+19.9905 	EXP 	cross: autoDraw = False
+19.9905 	EXP 	image: image = 'images\\vehicle.jpg'
+20.0392 	DATA 	Mouse:  Left button up, pos=(622,488)
+20.4869 	EXP 	image: autoDraw = True
+21.4874 	EXP 	image: autoDraw = False
+21.4874 	EXP 	image: autoDraw = False
+21.4874 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+21.9865 	EXP 	cross: autoDraw = True
+23.1887 	DATA 	Mouse: Left button down, pos=(1561,128)
+23.1909 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'path': 'images\\tool.jpg', 'xPos': -0.4, 'yPos': -0.3, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+23.2224 	EXP 	cross: autoDraw = False
+23.2224 	EXP 	image: image = 'images\\tool.jpg'
+23.2901 	DATA 	Mouse:  Left button up, pos=(1560,128)
+23.7041 	EXP 	image: autoDraw = True
+24.7036 	EXP 	image: autoDraw = False
+24.7036 	EXP 	image: autoDraw = False
+24.7036 	EXP 	cross: image = 'kii6Jy-file-round-cross-svg-wikipedia.png'
+25.2037 	EXP 	cross: autoDraw = True
+25.9718 	DATA 	Mouse: Left button down, pos=(479,259)
+25.9741 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'path': 'images\nature.jpg', 'xPos': 0.3, 'yPos': 0, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+25.9750 	DEPRECATION 	Couldn't find image images
+ature.jpg; check path? (tried: C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\images
+ature.jpg)
+27.6441 	INFO 	saved data to C:\Users\Sahaj Bindal\OneDrive\Desktop\New folder\data/582760_untitled_2025-05-18_10h46.22.226.psydat
+27.6459 	INFO 	saved data to 'C:\\Users\\Sahaj Bindal\\OneDrive\\Desktop\\New folder\\data/582760_untitled_2025-05-18_10h46.22.226.csv'
