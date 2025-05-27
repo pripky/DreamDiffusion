@@ -1,0 +1,141 @@
+6.6561 	INFO 	Loaded monitor calibration from ['2025_05_15 11:23']
+6.6680 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+7.6048 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000179742725C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017974272560>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001797433FE20>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.6049 	EXP 	window1: backgroundImage = ''
+7.6049 	EXP 	window1: backgroundFit = 'none'
+7.6835 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.6835 	EXP 	window1: recordFrameIntervals = False
+7.8920 	EXP 	window1: recordFrameIntervals = True
+8.0754 	EXP 	Screen (0) actual frame rate measured at 60.01Hz
+8.0755 	EXP 	window1: recordFrameIntervals = False
+10.7934 	INFO 	keyboard.Keyboard is using iohub backend.
+10.7934 	EXP 	stimulus: status = STARTED
+10.8826 	EXP 	Created start_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='start_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='X', units='height', win=Window(...), wrapWidth=1)
+10.8874 	EXP 	Created stim_img = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim_img', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+10.8892 	EXP 	Created end_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='end_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='X', units='height', win=Window(...), wrapWidth=1)
+0.0099 	EXP 	Imported conditions.xlsx as conditions, 10 conditions, 5 params
+0.0102 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'image': 'images/building.png', 'x_pos1': 0.33, 'y_pos1': -0.21, 'x_pos2': -0.14, 'y_pos2': -0.12, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0155 	EXP 	start_cross: autoDraw = True
+1.5529 	DATA 	Mouse: Left button down, pos=(1313,411)
+1.5928 	EXP 	start_cross: autoDraw = False
+1.5928 	EXP 	stim_img: image = 'images/building.png'
+1.5928 	EXP 	stim_img: autoDraw = True
+1.6364 	DATA 	Mouse:  Left button up, pos=(1313,411)
+6.5847 	EXP 	stim_img: autoDraw = False
+6.5847 	EXP 	end_cross: autoDraw = True
+8.0694 	DATA 	Mouse: Left button down, pos=(809,415)
+8.0705 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'image': 'images/laptop.png', 'x_pos1': 0.3, 'y_pos1': 0.28, 'x_pos2': 0.42, 'y_pos2': -0.27, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+8.0845 	EXP 	end_cross: autoDraw = False
+8.0845 	EXP 	start_cross: autoDraw = True
+8.1532 	DATA 	Mouse:  Left button up, pos=(809,415)
+9.2698 	DATA 	Mouse: Left button down, pos=(1283,253)
+9.3028 	EXP 	start_cross: autoDraw = False
+9.3028 	EXP 	stim_img: image = 'images/laptop.png'
+9.3028 	EXP 	stim_img: autoDraw = True
+9.3544 	DATA 	Mouse:  Left button up, pos=(1284,252)
+14.3177 	EXP 	stim_img: autoDraw = False
+14.3177 	EXP 	end_cross: autoDraw = True
+16.0689 	DATA 	Mouse: Left button down, pos=(1412,249)
+16.0703 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'image': 'images/person.png', 'x_pos1': 0.14, 'y_pos1': -0.1, 'x_pos2': -0.29, 'y_pos2': 0.01, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+16.0842 	EXP 	end_cross: autoDraw = False
+16.0842 	EXP 	start_cross: autoDraw = True
+16.1513 	DATA 	Mouse:  Left button up, pos=(1412,249)
+17.7363 	DATA 	Mouse: Left button down, pos=(1111,550)
+17.7518 	EXP 	start_cross: autoDraw = False
+17.7518 	EXP 	stim_img: image = 'images/person.png'
+17.7518 	EXP 	stim_img: autoDraw = True
+17.8192 	DATA 	Mouse:  Left button up, pos=(1111,550)
+22.7504 	EXP 	stim_img: autoDraw = False
+22.7504 	EXP 	stim_img: autoDraw = False
+22.7504 	EXP 	end_cross: autoDraw = True
+24.1518 	DATA 	Mouse: Left button down, pos=(648,550)
+24.1532 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'image': 'images/tool.png', 'x_pos1': -0.5, 'y_pos1': -0.29, 'x_pos2': -0.41, 'y_pos2': -0.21, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+24.1671 	EXP 	end_cross: autoDraw = False
+24.1671 	EXP 	start_cross: autoDraw = True
+24.2194 	DATA 	Mouse:  Left button up, pos=(648,550)
+26.2020 	DATA 	Mouse: Left button down, pos=(419,318)
+26.2186 	EXP 	start_cross: autoDraw = False
+26.2186 	EXP 	stim_img: image = 'images/tool.png'
+26.2186 	EXP 	stim_img: autoDraw = True
+26.3031 	DATA 	Mouse:  Left button up, pos=(419,318)
+31.2337 	EXP 	stim_img: autoDraw = False
+31.2337 	EXP 	end_cross: autoDraw = True
+33.8015 	DATA 	Mouse: Left button down, pos=(520,310)
+33.8029 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'image': 'images/animal.png', 'x_pos1': 0.2, 'y_pos1': -0.27, 'x_pos2': 0.35, 'y_pos2': -0.02, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+33.8164 	EXP 	end_cross: autoDraw = False
+33.8164 	EXP 	start_cross: autoDraw = True
+33.8844 	DATA 	Mouse:  Left button up, pos=(520,310)
+35.2348 	DATA 	Mouse: Left button down, pos=(1176,518)
+35.2567 	EXP 	start_cross: autoDraw = False
+35.2567 	EXP 	stim_img: image = 'images/animal.png'
+35.2567 	EXP 	stim_img: autoDraw = True
+35.3187 	DATA 	Mouse:  Left button up, pos=(1176,518)
+40.2665 	EXP 	stim_img: autoDraw = False
+40.2665 	EXP 	end_cross: autoDraw = True
+41.9511 	DATA 	Mouse: Left button down, pos=(1336,513)
+41.9525 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'image': 'images/furniture.png', 'x_pos1': -0.4, 'y_pos1': 0, 'x_pos2': -0.39, 'y_pos2': 0.22, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+41.9668 	EXP 	end_cross: autoDraw = False
+41.9668 	EXP 	start_cross: autoDraw = True
+42.0169 	DATA 	Mouse:  Left button up, pos=(1336,513)
+43.4513 	DATA 	Mouse: Left button down, pos=(526,778)
+43.4670 	EXP 	start_cross: autoDraw = False
+43.4670 	EXP 	stim_img: image = 'images/furniture.png'
+43.4670 	EXP 	stim_img: autoDraw = True
+43.5352 	DATA 	Mouse:  Left button up, pos=(526,778)
+48.4655 	EXP 	stim_img: autoDraw = False
+48.4655 	EXP 	stim_img: autoDraw = False
+48.4655 	EXP 	end_cross: autoDraw = True
+49.9009 	DATA 	Mouse: Left button down, pos=(537,779)
+49.9022 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'image': 'images/vehicle.png', 'x_pos1': -0.36, 'y_pos1': -0.06, 'x_pos2': 0.23, 'y_pos2': -0.27, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+49.9160 	EXP 	end_cross: autoDraw = False
+49.9160 	EXP 	start_cross: autoDraw = True
+49.9835 	DATA 	Mouse:  Left button up, pos=(537,779)
+51.7508 	DATA 	Mouse: Left button down, pos=(571,251)
+51.7663 	EXP 	start_cross: autoDraw = False
+51.7663 	EXP 	stim_img: image = 'images/vehicle.png'
+51.7663 	EXP 	stim_img: autoDraw = True
+51.8344 	DATA 	Mouse:  Left button up, pos=(571,251)
+56.7815 	EXP 	stim_img: autoDraw = False
+56.7815 	EXP 	end_cross: autoDraw = True
+58.4335 	DATA 	Mouse: Left button down, pos=(1204,246)
+58.4345 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'image': 'images/game.png', 'x_pos1': 0.02, 'y_pos1': 0.16, 'x_pos2': 0.31, 'y_pos2': 0.29, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+58.4483 	EXP 	end_cross: autoDraw = False
+58.4483 	EXP 	start_cross: autoDraw = True
+58.5168 	DATA 	Mouse:  Left button up, pos=(1204,246)
+59.9337 	DATA 	Mouse: Left button down, pos=(981,857)
+59.9508 	EXP 	start_cross: autoDraw = False
+59.9508 	EXP 	stim_img: image = 'images/game.png'
+59.9508 	EXP 	stim_img: autoDraw = True
+60.0185 	DATA 	Mouse:  Left button up, pos=(981,857)
+64.9648 	EXP 	stim_img: autoDraw = False
+64.9648 	EXP 	end_cross: autoDraw = True
+66.9002 	DATA 	Mouse: Left button down, pos=(1290,852)
+66.9014 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'image': 'images/food.png', 'x_pos1': 0.41, 'y_pos1': 0.3, 'x_pos2': 0.48, 'y_pos2': -0.23, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+66.9149 	EXP 	end_cross: autoDraw = False
+66.9149 	EXP 	start_cross: autoDraw = True
+66.9834 	DATA 	Mouse:  Left button up, pos=(1290,852)
+68.4991 	DATA 	Mouse: Left button down, pos=(1401,290)
+68.5159 	EXP 	start_cross: autoDraw = False
+68.5159 	EXP 	stim_img: image = 'images/food.png'
+68.5159 	EXP 	stim_img: autoDraw = True
+68.6175 	DATA 	Mouse:  Left button up, pos=(1401,290)
+73.5148 	EXP 	stim_img: autoDraw = False
+73.5148 	EXP 	stim_img: autoDraw = False
+73.5148 	EXP 	end_cross: autoDraw = True
+75.1497 	DATA 	Mouse: Left button down, pos=(1480,295)
+75.1509 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'image': 'images/scenery.png', 'x_pos1': -0.28, 'y_pos1': 0.15, 'x_pos2': -0.12, 'y_pos2': -0.17, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+75.1644 	EXP 	end_cross: autoDraw = False
+75.1644 	EXP 	start_cross: autoDraw = True
+75.2494 	DATA 	Mouse:  Left button up, pos=(1480,295)
+76.9656 	DATA 	Mouse: Left button down, pos=(660,353)
+76.9819 	EXP 	start_cross: autoDraw = False
+76.9819 	EXP 	stim_img: image = 'images/scenery.png'
+76.9819 	EXP 	stim_img: autoDraw = True
+77.0331 	DATA 	Mouse:  Left button up, pos=(660,353)
+81.9972 	EXP 	stim_img: autoDraw = False
+81.9972 	EXP 	end_cross: autoDraw = True
+83.3817 	DATA 	Mouse: Left button down, pos=(828,360)
+83.3969 	EXP 	end_cross: autoDraw = False
+83.3970 	EXP 	stimulus: status = STOPPED
+83.4017 	INFO 	saved data to 'C:\\Users\\joelj\\OneDrive\\Documents\\Joel\\Projects\\Summer_25\\dream_diff\\psychopy_joel\\data/172850_stimulus_2025-05-26_20h39.20.038.csv'
+83.4030 	INFO 	saved data to C:\Users\joelj\OneDrive\Documents\Joel\Projects\Summer_25\dream_diff\psychopy_joel\data/172850_stimulus_2025-05-26_20h39.20.038.psydat
